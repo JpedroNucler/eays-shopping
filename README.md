@@ -10,4 +10,4 @@
 <a href="https://github.com/JpedroNucler/Aula-do-DevClub">Aqui<a/>
 <br>
 <br>
-  <img src="https://github.com/JpedroNucler/eays-shopping/blob/main/Easy-shop/igm/Design%20sem%20nome.png?raw=true"/>
+  <img src="https://github.com/JpedroNucler/eays-shopping/blob/main/projetos-2/igm/Design%20sem%20nome.png?raw=true"/>
